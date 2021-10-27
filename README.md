@@ -1,1 +1,2 @@
-# This is my submission for the 1st week Homework assignment for the Research Methods course. I just added this readme file to see how it works on Github as it is my first time using a code repository website!
+# This is my submission for the 1st week Homework assignment for the Research Methods course. I just added this readme file to see how it works on Github as it is my first time using a code repository website.
+I created the stata code where i import the table and then run the regressions. I have run some additional regressions with control variables and interaction terms. I export these results to an rtf file in a table. Then, I finally create a table with all the results and some basic comments.
